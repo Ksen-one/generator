@@ -1,0 +1,16 @@
+{
+  "main.css": "/generator/static/css/main.7c946140.chunk.css",
+  "main.js": "/generator/static/js/main.69c1a090.chunk.js",
+  "main.js.map": "/generator/static/js/main.69c1a090.chunk.js.map",
+  "runtime~main.js": "/generator/static/js/runtime~main.ea8ac7b8.js",
+  "runtime~main.js.map": "/generator/static/js/runtime~main.ea8ac7b8.js.map",
+  "static/css/2.622aa29d.chunk.css": "/generator/static/css/2.622aa29d.chunk.css",
+  "static/js/2.bfb51c96.chunk.js": "/generator/static/js/2.bfb51c96.chunk.js",
+  "static/js/2.bfb51c96.chunk.js.map": "/generator/static/js/2.bfb51c96.chunk.js.map",
+  "index.html": "/generator/index.html",
+  "precache-manifest.720dc87ec12430fb4eb76af52f2e0a16.js": "/generator/precache-manifest.720dc87ec12430fb4eb76af52f2e0a16.js",
+  "service-worker.js": "/generator/service-worker.js",
+  "static/css/2.622aa29d.chunk.css.map": "/generator/static/css/2.622aa29d.chunk.css.map",
+  "static/css/main.7c946140.chunk.css.map": "/generator/static/css/main.7c946140.chunk.css.map",
+  "static/media/semantic.min.css": "/generator/static/media/outline-icons.ef60a4f6.woff"
+}
